@@ -126,6 +126,8 @@ bindsym $mod+q focus parent
 #bindsym $mod+agrave workspace 10
 
 # Switch to workspace like xmonad
+mouse_warping none
+
 set $x_switch exec --no-startup-id ~/.config/i3/scripts/i3-wk-switch.py
 bindsym $mod+ampersand $x_switch 1
 bindsym $mod+eacute $x_switch 2

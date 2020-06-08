@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Relaunch polybar
+~/.config/polybar/launch.sh
+
+# Relaunch lock screen compile 
+~/.config/i3/scripts/i3-set-lockscreen.sh &

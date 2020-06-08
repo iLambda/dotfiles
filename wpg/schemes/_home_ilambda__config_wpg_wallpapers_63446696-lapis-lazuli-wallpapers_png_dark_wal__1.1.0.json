@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/63446696-lapis-lazuli-wallpapers.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0a1b",
+        "foreground": "#e7ffff",
+        "cursor": "#e7ffff"
+    },
+    "colors": {
+        "color0": "#0f0a1b",
+        "color1": "#61E4FB",
+        "color2": "#1FA6D8",
+        "color3": "#83FEFF",
+        "color4": "#2491AC",
+        "color5": "#59AEEA",
+        "color6": "#2ED7FC",
+        "color7": "#c9eff1",
+        "color8": "#231640",
+        "color9": "#67ffff",
+        "color10": "#18dfff",
+        "color11": "#91ffff",
+        "color12": "#21c4ed",
+        "color13": "#5ee5ff",
+        "color14": "#28ffff",
+        "color15": "#e7ffff"
+    }
+}

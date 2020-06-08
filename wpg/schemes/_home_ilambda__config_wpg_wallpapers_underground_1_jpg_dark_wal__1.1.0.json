@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/underground_1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#161426",
+        "foreground": "#fdfdff",
+        "cursor": "#fdfdff"
+    },
+    "colors": {
+        "color0": "#161426",
+        "color1": "#737587",
+        "color2": "#999BA7",
+        "color3": "#907381",
+        "color4": "#B8BAC4",
+        "color5": "#BEC1C9",
+        "color6": "#7E8192",
+        "color7": "#dddde0",
+        "color8": "#444084",
+        "color9": "#858bbf",
+        "color10": "#b2baed",
+        "color11": "#cb84a7",
+        "color12": "#d6e1ff",
+        "color13": "#ddefff",
+        "color14": "#929bcf",
+        "color15": "#fdfdff"
+    }
+}

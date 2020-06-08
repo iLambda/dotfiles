@@ -1,0 +1,5 @@
+#!/bin/bash
+
+## Created By Aditya Shakya
+
+rofi -show $1 -location 1 -xoffset 10 -yoffset 32 -width 20 -lines 35 -padding 25 -hide-scrollbar -show-icons -drun-icon-theme "Papirus" -font "Terminus 14"

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/nature_1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#021B29",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#021B29",
+        "color1": "#667774",
+        "color2": "#738873",
+        "color3": "#879378",
+        "color4": "#566D70",
+        "color5": "#697C83",
+        "color6": "#76878B",
+        "color7": "#bec5c3",
+        "color8": "#033a59",
+        "color9": "#76a8a0",
+        "color10": "#85c185",
+        "color11": "#b1d08a",
+        "color12": "#62979e",
+        "color13": "#79a8b9",
+        "color14": "#88b9c5",
+        "color15": "#f8ffff"
+    }
+}

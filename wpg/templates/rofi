@@ -1,0 +1,36 @@
+* {
+	color00:    #161426;
+	color01:    #737587;
+	color02:    #999BA7;
+	color03:    #907381;
+	color04:    #B8BAC4;
+	color05:    #BEC1C9;
+	color06:    #7E8192;
+	color07:    #dddde0;
+	color08:    #444084;
+	color09:    #858bbf;
+	color10:    #b2baed;
+	color11:    #cb84a7;
+	color12:    #d6e1ff;
+	color13:    #ddefff;
+	color14:    #929bcf;
+	color15:    #fdfdff;
+
+	darkblack: @color00;
+	black: @color08;
+	darkred: @color01;
+	red: @color09;
+	darkgreen: @color02;
+	green: @color10;
+	darkyellow: @color03;
+	yellow: @color11;
+	darkblue: @color04;
+	blue: @color12;
+	darkmagenta: @color05;
+	magenta: @color13;
+	darkcyan: @color06;
+	cyan: @color14;
+	darkwhite: @color07;
+	white: @color15;
+
+}

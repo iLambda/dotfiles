@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/neon_town_1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06192B",
+        "foreground": "#0ad5e9",
+        "cursor": "#0ad5e9"
+    },
+    "colors": {
+        "color0": "#06192B",
+        "color1": "#60698B",
+        "color2": "#048B93",
+        "color3": "#2C6473",
+        "color4": "#057885",
+        "color5": "#B87A9B",
+        "color6": "#7bcacc",
+        "color7": "#066C76",
+        "color8": "#0b3257",
+        "color9": "#6d7fc3",
+        "color10": "#01b8c3",
+        "color11": "#2e879f",
+        "color12": "#01a0b2",
+        "color13": "#ff8aca",
+        "color14": "#8affff",
+        "color15": "#0ad5e9"
+    }
+}

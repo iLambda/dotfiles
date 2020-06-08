@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/urban_orange_2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d1213",
+        "foreground": "#f6ffff",
+        "cursor": "#f6ffff"
+    },
+    "colors": {
+        "color0": "#0d1213",
+        "color1": "#A97153",
+        "color2": "#768B87",
+        "color3": "#D38F5F",
+        "color4": "#96A6A0",
+        "color5": "#B28668",
+        "color6": "#96AEA9",
+        "color7": "#cad8d5",
+        "color8": "#212e31",
+        "color9": "#ec8d5b",
+        "color10": "#88c5b9",
+        "color11": "#ffb667",
+        "color12": "#aeecd5",
+        "color13": "#f9aa74",
+        "color14": "#aef7e7",
+        "color15": "#f6ffff"
+    }
+}

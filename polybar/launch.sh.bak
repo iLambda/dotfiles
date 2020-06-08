@@ -1,0 +1,21 @@
+#!/bin/bash
+
+	# Terminate already running bar instances
+	killall -q polybar
+
+	# Wait until the processes have been shut down
+	while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
+
+	# Get all outputs
+	outputs=$(xrandr --query | grep " connected" | cut -d" " -f1)
+	tray_output=eDP1
+
+	# Launch
+	for m in $outputs; do
+		tray_pos=none
+		if [[ $m == $tray_output ]]; then
+			tray_pos=center
+		fi
+		MONITOR=$m TRAY_POS=$tray_pos polybar --reload top -c ~/.config/polybar/config-top.ini </dev/null &
+		MONITOR=$m TRAY_POS=$tray_pos polybar --reload bottom -c ~/.config/polybar/config-bottom.ini </dev/null &
+	done

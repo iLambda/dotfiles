@@ -1,0 +1,36 @@
+* {{
+	color00:    {color0};
+	color01:    {color1};
+	color02:    {color2};
+	color03:    {color3};
+	color04:    {color4};
+	color05:    {color5};
+	color06:    {color6};
+	color07:    {color7};
+	color08:    {color8};
+	color09:    {color9};
+	color10:    {color10};
+	color11:    {color11};
+	color12:    {color12};
+	color13:    {color13};
+	color14:    {color14};
+	color15:    {color15};
+
+	darkblack: @color00;
+	black: @color08;
+	darkred: @color01;
+	red: @color09;
+	darkgreen: @color02;
+	green: @color10;
+	darkyellow: @color03;
+	yellow: @color11;
+	darkblue: @color04;
+	blue: @color12;
+	darkmagenta: @color05;
+	magenta: @color13;
+	darkcyan: @color06;
+	cyan: @color14;
+	darkwhite: @color07;
+	white: @color15;
+
+}}

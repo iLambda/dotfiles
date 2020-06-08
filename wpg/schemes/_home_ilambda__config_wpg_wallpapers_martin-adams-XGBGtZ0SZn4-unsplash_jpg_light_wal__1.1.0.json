@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/martin-adams-XGBGtZ0SZn4-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#fefefe",
+        "foreground": "#060506",
+        "cursor": "#060506"
+    },
+    "colors": {
+        "color0": "#fefefe",
+        "color1": "#4A276A",
+        "color2": "#592D6F",
+        "color3": "#6C4F70",
+        "color4": "#634098",
+        "color5": "#9767C5",
+        "color6": "#B7A0D4",
+        "color7": "#060506",
+        "color8": "#969696",
+        "color9": "#4A276A",
+        "color10": "#592D6F",
+        "color11": "#6C4F70",
+        "color12": "#634098",
+        "color13": "#9767C5",
+        "color14": "#B7A0D4",
+        "color15": "#060506"
+    }
+}

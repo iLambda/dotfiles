@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/ibm_1.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1110",
+        "foreground": "#ffffe5",
+        "cursor": "#ffffe5"
+    },
+    "colors": {
+        "color0": "#1e1110",
+        "color1": "#AF4E26",
+        "color2": "#9E4F29",
+        "color3": "#E2A559",
+        "color4": "#C9672D",
+        "color5": "#AE714F",
+        "color6": "#E0A458",
+        "color7": "#f3e5c7",
+        "color8": "#3e2321",
+        "color9": "#f15f23",
+        "color10": "#da6228",
+        "color11": "#ffd85f",
+        "color12": "#ff812a",
+        "color13": "#f28e56",
+        "color14": "#ffd75e",
+        "color15": "#ffffe5"
+    }
+}

@@ -1,0 +1,7 @@
+if string match 'vscode' $TERM_PROGRAM  cd /mnt/data/
+end
+
+alias l 'ls'
+alias ls '/bin/ls --color=always'
+alias la 'l -lhaG --color=always'
+thefuck --alias | source 

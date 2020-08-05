@@ -1,20 +1,20 @@
 # set fish_color_normal normal
-set fish_color_normal fdfdff
+set fish_color_normal ffffff
 # set fish_color_command 005fd7
-set fish_color_command b2baed
+set fish_color_command ad583f
 # set fish_color_param 00afff
-set fish_color_param 858bbf
+set fish_color_param ff4d43
 # set fish_color_redirection 00afff
 set fish_color_redirection $fish_color_param
 # set fish_color_comment 990000
-set fish_color_comment 737587
+set fish_color_comment e44943
 set fish_color_error BF616A
 # set fish_color_escape 00a6b2
-set fish_color_escape BEC1C9
+set fish_color_escape 896295
 # set fish_color_operator 00a6b2
 set fish_color_operator $fish_color_escape
-set fish_color_end B8BAC4
-set fish_color_quote ddefff
+set fish_color_end 173687
+set fish_color_quote ba6fd1
 set fish_color_autosuggestion 555 brblack
 set fish_color_user brgreen
 # set fish_color_host normal

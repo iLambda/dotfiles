@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/anime_2.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151618",
+        "foreground": "#fefeff",
+        "cursor": "#fefeff"
+    },
+    "colors": {
+        "color0": "#151618",
+        "color1": "#547dab",
+        "color2": "#7b828c",
+        "color3": "#4792d6",
+        "color4": "#3283c8",
+        "color5": "#8c939e",
+        "color6": "#1a9cd8",
+        "color7": "#c4c4c5",
+        "color8": "#2c2e32",
+        "color9": "#5ca1ee",
+        "color10": "#8ea5c7",
+        "color11": "#49beff",
+        "color12": "#30abff",
+        "color13": "#a2bae0",
+        "color14": "#11d0ff",
+        "color15": "#fefeff"
+    }
+}

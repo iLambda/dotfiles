@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/vapor_6.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18111b",
+        "foreground": "#fffdff",
+        "cursor": "#fffdff"
+    },
+    "colors": {
+        "color0": "#18111b",
+        "color1": "#ae5449",
+        "color2": "#a2567d",
+        "color3": "#9a605c",
+        "color4": "#66759e",
+        "color5": "#ba628c",
+        "color6": "#8e81ac",
+        "color7": "#c5c3c6",
+        "color8": "#332439",
+        "color9": "#f2604e",
+        "color10": "#e25fa2",
+        "color11": "#d86e67",
+        "color12": "#7390de",
+        "color13": "#ff6cb5",
+        "color14": "#b094f3",
+        "color15": "#fffdff"
+    }
+}

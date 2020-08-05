@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/geom_1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#052532",
+        "foreground": "#c0c8cb",
+        "cursor": "#c0c8cb"
+    },
+    "colors": {
+        "color0": "#052532",
+        "color1": "#1cc4ff",
+        "color2": "#39c8ea",
+        "color3": "#50c2ff",
+        "color4": "#50c2ff",
+        "color5": "#76cef3",
+        "color6": "#76cef3",
+        "color7": "#c0c8cb",
+        "color8": "#435b65",
+        "color9": "#1cc4ff",
+        "color10": "#39c8ea",
+        "color11": "#50c2ff",
+        "color12": "#50c2ff",
+        "color13": "#76cef3",
+        "color14": "#76cef3",
+        "color15": "#c0c8cb"
+    }
+}

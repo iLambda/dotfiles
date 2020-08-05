@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/neon_1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06060B",
+        "foreground": "#e7ffff",
+        "cursor": "#e7ffff"
+    },
+    "colors": {
+        "color0": "#06060B",
+        "color1": "#6CB8FE",
+        "color2": "#3590F3",
+        "color3": "#79C3FE",
+        "color4": "#245FC0",
+        "color5": "#93CDFF",
+        "color6": "#50A6FC",
+        "color7": "#cde4f6",
+        "color8": "#16162c",
+        "color9": "#74f0ff",
+        "color10": "#31baff",
+        "color11": "#84ffff",
+        "color12": "#1f77ff",
+        "color13": "#a1ffff",
+        "color14": "#52d7ff",
+        "color15": "#e7ffff"
+    }
+}

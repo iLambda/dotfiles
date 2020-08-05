@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/hiroshi_4.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#25101f",
+        "foreground": "#fffbff",
+        "cursor": "#fffbff"
+    },
+    "colors": {
+        "color0": "#25101f",
+        "color1": "#be7283",
+        "color2": "#ec9ec3",
+        "color3": "#c89d9f",
+        "color4": "#d78bb0",
+        "color5": "#cd6fa4",
+        "color6": "#c0abc7",
+        "color7": "#c8c3c7",
+        "color8": "#481e3c",
+        "color9": "#ff809f",
+        "color10": "#ffb3fb",
+        "color11": "#ffb4b9",
+        "color12": "#ff9de4",
+        "color13": "#ff7bd7",
+        "color14": "#ffc6ff",
+        "color15": "#fffbff"
+    }
+}

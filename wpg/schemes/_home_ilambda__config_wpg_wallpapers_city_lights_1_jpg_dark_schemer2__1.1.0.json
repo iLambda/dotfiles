@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/city_lights_1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191d21",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#191d21",
+        "color1": "#8bcfe8",
+        "color2": "#96bad6",
+        "color3": "#96a5b6",
+        "color4": "#72b2ce",
+        "color5": "#8b89cc",
+        "color6": "#54bcdf",
+        "color7": "#c5c6c7",
+        "color8": "#2e353d",
+        "color9": "#9cffff",
+        "color10": "#abf4ff",
+        "color11": "#add5ff",
+        "color12": "#7fefff",
+        "color13": "#9f9bff",
+        "color14": "#59feff",
+        "color15": "#fdffff"
+    }
+}

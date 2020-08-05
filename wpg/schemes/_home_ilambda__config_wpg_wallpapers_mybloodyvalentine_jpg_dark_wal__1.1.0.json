@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ilambda/.config/wpg/wallpapers/mybloodyvalentine.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151515",
+        "foreground": "#e9e9e9",
+        "cursor": "#e9e9e9"
+    },
+    "colors": {
+        "color0": "#151515",
+        "color1": "#b7407d",
+        "color2": "#ae4e84",
+        "color3": "#b2889e",
+        "color4": "#834471",
+        "color5": "#b75788",
+        "color6": "#b57997",
+        "color7": "#cccccc",
+        "color8": "#2b1316",
+        "color9": "#c83b99",
+        "color10": "#c551a1",
+        "color11": "#be8cb1",
+        "color12": "#ba4d9c",
+        "color13": "#c650a4",
+        "color14": "#bf7bab",
+        "color15": "#e9e9e9"
+    }
+}
